@@ -1,0 +1,26 @@
+
+        body {
+            background-color: cornflowerblue;
+        }
+
+        li {
+            font-weight: bold;
+        }
+
+        #abcd {
+            color: green;
+        }
+
+
+        .yellowList {
+            color: yellow;
+        }
+
+        .redList {
+            color: red;
+        }
+
+        .styled-text {
+            text-decoration: underline;
+            font-size: large    ;
+        }
